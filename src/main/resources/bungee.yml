@@ -1,0 +1,5 @@
+name: PreventIAPackReload
+version: '1.0'
+main: it.alessandrozap.preventiapackreload.PreventIAPackReload
+author: AlessandroZap
+depends: [packetevents]
